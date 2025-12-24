@@ -1,4 +1,4 @@
-# Encode2025-Project: PhishAI
+# Encode-Project: PhishAI
 'PhishAI' (phish + ai, get it) Is an AI-Powered, Blockchain-based training platform aimed to game-ify the process of detecting &amp; scouting malicious email that could be sent to you at ANY POINT IN YOUR LIFE! 
 
 <i>This project is an entry for the following bounties:</i>
